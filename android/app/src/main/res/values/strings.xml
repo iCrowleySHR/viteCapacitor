@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">viteCapacitor</string>
+    <string name="title_activity_main">viteCapacitor</string>
+    <string name="package_name">com.br.viteCapacitor</string>
+    <string name="custom_url_scheme">com.br.viteCapacitor</string>
+</resources>
